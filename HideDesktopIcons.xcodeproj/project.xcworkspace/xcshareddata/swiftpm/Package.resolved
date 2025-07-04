@@ -1,0 +1,15 @@
+{
+  "originHash" : "01849d500c034772881929f3e5bd82f7e1d45288a0c3e3ea2c417c3c6c5d3d31",
+  "pins" : [
+    {
+      "identity" : "desktophider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timi2506/DesktopHider",
+      "state" : {
+        "revision" : "ed0522d13fa105358de224fff8ed8b9e0ad8a71e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
